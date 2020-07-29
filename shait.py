@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# put "shait" in /usr/local/bin and chmod +x it so you can simply "shait moo" from your terminal
+
 import hashlib
 import sys
 
